@@ -1,0 +1,17 @@
+
+h2 {
+    margin-bottom: 20px;
+}
+.bg-secondary {
+    padding: 20px;
+    margin: 5px;
+    background-color: rgb(153,153,153);
+    color: black;
+    font-size: 1.5em;
+}
+.bold {
+    font-weight: 900;
+}
+.navbar {
+    background-color: rgb(218, 218, 218);
+}
